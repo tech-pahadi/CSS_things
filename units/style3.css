@@ -1,0 +1,38 @@
+main
+{
+    border: 5px solid brown;
+    /* width: 50%; */
+    /* width: 50vw; */
+    width: 25%;
+    
+}
+
+/* html
+{
+    font-size: 2em;
+} */
+
+body
+{
+    font-size: 2em;
+}
+
+header
+{
+    font-size: 2em;
+}
+
+h1{
+    /* font-size: 40px; */
+    /* font-size: 2em; */
+    font-size: 3rem;
+}
+
+section
+{
+    border: 5px dotted green;
+    /* width: 50%; */
+    width: 50vw;
+    /* width: 200vw;
+    height: 200vh; */
+}

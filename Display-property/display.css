@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
+p
+{
+    /* width: 50%; */
+    color: blue;
+    display: inline-block;
+    width: 300px;
+}
+
+a
+{
+    width: 100px;
+    /* display: inline-block; */
+    display: block;
+    margin: 40px;
+    /* background-color: rebeccapurple; */
+}
+
+img
+{
+    width: 200px;
+    display: none;
+}
+
+nav
+{
+    background-color: blueviolet;
+}
+
+ul
+{
+    list-style: none;
+    text-align: end;
+    padding: 30px;
+    font-family: sans-serif;
+}
+
+li
+{
+    display: inline;
+    color: white;
+    padding: 20px;
+}
+
+li:hover
+{
+    color: red;
+    cursor: pointer;
+}

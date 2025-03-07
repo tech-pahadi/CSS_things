@@ -1,0 +1,70 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(0, 56, 104);
+}
+
+.container
+{
+    height: 500px;
+    width: 500px;
+    background-color: wheat;
+    margin: 100px;
+    /* position: relative; */
+}
+
+.box
+{
+    width: 100px;
+    height: 100px;
+}
+
+.red
+{
+    position: relative;
+    color: wheat;
+    /* left: 10px; */
+    /* right: 40px; */
+    /* top: 60px; */
+    bottom: 50px;
+    background-color: red;
+}
+
+
+.green
+{
+    background-color: green;
+    color: wheat;
+    position: absolute;
+    bottom: 40px;
+    right: 40px;
+    z-index: 1;
+}
+
+.blue
+{
+    background-color: blue;
+    position: fixed;
+    color: wheat;
+    /* bottom: 0px; */
+    /* left: 100px;
+    top: 0px; */
+    bottom: 40px;
+    right: 100px;
+    z-index: 2;
+}
+
+.spacer
+{
+    height: 300vh;
+}
+
+.purple
+{
+    background-color: purple;
+    color: white;
+    position: sticky;
+    top: 3px;
+}

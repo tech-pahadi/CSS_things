@@ -1,0 +1,49 @@
+*
+{
+    /* margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+}
+
+.container
+{
+    /* height: 400px; */
+    width: 400px;
+    /* border: 2px solid red; */
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    /* overflow: auto; */
+}
+
+/* 
+.block1
+{
+    overflow: auto;
+} */
+
+
+.p1{
+    border: 2PX solid green;
+    /* margin-right: 40px; */
+}
+
+.img1
+{
+    float: right;
+    /* overflow: hidden; */
+    /* margin-left: 40px; */
+    /* overflow: hidden; */
+    /* padding: 50px; */
+}
+
+.p2{
+    border: 2px solid rgb(128, 0, 79);
+    /* margin-right: 40px; */
+}
+
+.img2
+{
+    float: left;
+
+}

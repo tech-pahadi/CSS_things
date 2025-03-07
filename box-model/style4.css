@@ -1,0 +1,17 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(31, 31, 126);
+    border: 20px solid rgb(255, 0, 0) ;
+    margin: 40px;
+    padding: 40px;
+    color: wheat;
+}
